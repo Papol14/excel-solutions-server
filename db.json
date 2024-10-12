@@ -1,9 +1,140 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "crypto": [
+    {
+      "id": 1,
+      "img": "/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "Advanced Crypto Trading Strategies",
+      "author": "Unknown",
+      "description": "This, along with other clear explanations of cryptocurrency — written in simple, everyday language that anyone can understand — will position you well to pursue profits from bitcoin and altcoins.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/1GwROJTnT5oWO1FarbkGu_NcaTVrI7nL1/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "img": "src/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "Harmonic Patterns Cheat Sheet",
+      "author": "Emmanuel Nyemera",
+      "description": "The Harmonic Patterns Cheat Sheet is a handy guide for traders to quickly identify key harmonic patterns like the Gartley, Bat, and Butterfly. It simplifies pattern recognition with clear visuals and ratios, aiding in better trading decisions.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/1s__yvA3iKy14IzYwzLnpXTd_PhAcN0c3/view?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "img": "/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "HsakaTrades Compilation",
+      "author": "@hsakatrades",
+      "description": "This document covers essential trading concepts, beginning with the fundamentals of supply and demand, including different types, identification methods, and factors affecting their strength.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/1ErMXZnqeHKUpIrgGHzm9E8-srxPX5tsk/view?usp=drive_link"
+    },
+    {
+      "id": 4,
+      "img": "/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "Level To Level Trading",
+      "author": "EmperorBTC",
+      "description": "This document covers essential trading concepts, beginning with the fundamentals of supply and demand, including different types, identification methods, and factors affecting their strength.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/13pV_Wca7aOC2-2_FKa4OU4TTJ3yGtlMX/view?usp=drive_link"
+    },
+    {
+      "id": 5,
+      "img": "/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "Mastering MACD",
+      "author": "Prasad M.",
+      "description": "This document covers essential trading concepts, beginning with the fundamentals of supply and demand, including different types, identification methods, and factors affecting their strength.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/1tHQYnDoP9gIls4H22GQquQi3WKpCFQk4/view?usp=drive_link"
+    },
+    {
+      "id": 6,
+      "img": "/src/images/cryptoIcon.png",
+      "category": "Crypto",
+      "title": "Crypto for Dummies (All in One)",
+      "author": "Kiana Danial",
+      "description": "This document covers essential trading concepts, beginning with the fundamentals of supply and demand, including different types, identification methods, and factors affecting their strength.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/17_DEOhKw1qDuC565QbjlCMcPkPyP1Ezh/view?usp=drive_link"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "forex": [
+    {
+      "id": 1,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Identifying Chart Patterns with Technical Analysis",
+      "author": "Charles D.",
+      "description": "Chart patterns are key formations that appear on price charts and are used by traders to predict future market movements.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/1Th_8nKQaLjcZ4NED_5MNoCqTIoZ3ouWU/view?usp=drive_link"
+    },
+    {
+      "id": 2,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Trading - From Zero To Trader",
+      "author": "Allesio Alloisi",
+      "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/16zPblaR_50S0EuZrIjFJDPx6lOXrwVcm/view?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Forex Trading 101",
+      "author": "Tochukwu U. ",
+      "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/14hYtC7UPNL6hoYGdHVSY0BlJvIox_fjk/view?usp=drive_link"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "tools": [
+    {
+      "id": 1,
+      "img": "image",
+      "category": "TOOLS",
+      "title": "Trading Journal",
+      "author": "John Paul E.",
+      "description": "A trading journal is a detailed record of a trader's transactions, thoughts, and strategies. It is used to track and analyze trading performance over time.",
+      "format": ".epub",
+      "link": "#"
+    }
+  ],
+  "others": [
+    {
+      "id": 1,
+      "img": "image",
+      "category": "Others",
+      "title": "Currency Trading for Dummies",
+      "author": "Brian Dolan",
+      "description": "The description will appear here",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/14WyU5Syy-RsNEwODQGGdYJ5Zfw9IwmqG/view?usp=drive_link"
+    },
+    {
+      "id": 2,
+      "img": "image",
+      "category": "Others",
+      "title": "How to Day Trade from Home",
+      "author": "Edward Day",
+      "description": "These files will provide you with an understanding of day trading and offer guidance on becoming a successful day trader.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/17HbRM3K7if-Wvnt82uijlVVGCRPmWKcg/view?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "img": "image",
+      "category": "Others",
+      "title": "Options Trading",
+      "author": "Travis Wilkerson",
+      "description": "These files will provide you with an understanding of day trading and offer guidance on becoming a successful day trader.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/11UTfKY-6uODCReO5ApX4iX4OpBG2yT0h/view?usp=drive_link"
+    }
+  ]
 }
