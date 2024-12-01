@@ -104,11 +104,11 @@
       "id": 1,
       "img": "image",
       "category": "TOOLS",
-      "title": "Trading Journal",
+      "title": "Asset Inventory",
       "author": "John Paul E.",
-      "description": "A trading journal is a detailed record of a trader's transactions, thoughts, and strategies. It is used to track and analyze trading performance over time.",
-      "format": ".epub",
-      "link": "#"
+      "description": "Track your Asset informations",
+      "format": ".xls",
+      "link": "https://docs.google.com/spreadsheets/d/1ljdI8gAeaEkUhoqQUoFrVBEX9_W58p5M/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     },
     {
       "id": 2,
