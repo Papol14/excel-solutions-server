@@ -109,6 +109,26 @@
       "description": "A trading journal is a detailed record of a trader's transactions, thoughts, and strategies. It is used to track and analyze trading performance over time.",
       "format": ".epub",
       "link": "#"
+    },
+    {
+      "id": 2,
+      "img": "image",
+      "category": "Others",
+      "title": "How to Day Trade from Home",
+      "author": "Edward Day",
+      "description": "These files will provide you with an understanding of day trading and offer guidance on becoming a successful day trader.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/17HbRM3K7if-Wvnt82uijlVVGCRPmWKcg/view?usp=drive_link"
+    },
+    {
+      "id": 3,
+      "img": "image",
+      "category": "Others",
+      "title": "Options Trading",
+      "author": "Travis Wilkerson",
+      "description": "These files will provide you with an understanding of day trading and offer guidance on becoming a successful day trader.",
+      "format": ".epub",
+      "link": "https://drive.google.com/file/d/11UTfKY-6uODCReO5ApX4iX4OpBG2yT0h/view?usp=drive_link"
     }
   ],
   "others": [
