@@ -2,7 +2,7 @@
   "crypto": [
     {
       "id": 1,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "Advanced Crypto Trading Strategies",
       "author": "Unknown",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "Harmonic Patterns Cheat Sheet",
       "author": "Emmanuel Nyemera",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "HsakaTrades Compilation",
       "author": "@hsakatrades",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "Level To Level Trading",
       "author": "EmperorBTC",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "Mastering MACD",
       "author": "Prasad M.",
@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "img": "/public/images/cryptoIcon.png",
+      "img": "/src/images/cryptoIcon.png",
       "category": "Crypto",
       "title": "Crypto for Dummies (All in One)",
       "author": "Kiana Danial",
@@ -64,7 +64,7 @@
   "forex": [
     {
       "id": 1,
-      "img": "/public/images/forexIcon.png",
+      "img": "/src/images/forexIcon.png",
       "category": "Forex",
       "title": "Identifying Chart Patterns with Technical Analysis",
       "author": "Charles D.",
@@ -74,7 +74,7 @@
     },
     {
       "id": 2,
-      "img": "/public/images/forexIcon.png",
+      "img": "/src/images/forexIcon.png",
       "category": "Forex",
       "title": "Trading - From Zero To Trader",
       "author": "Allesio Alloisi",
@@ -84,7 +84,7 @@
     },
     {
       "id": 3,
-      "img": "/public/images/forexIcon.png",
+      "img": "/src/images/forexIcon.png",
       "category": "Forex",
       "title": "Forex Trading 101",
       "author": "Tochukwu U. ",
