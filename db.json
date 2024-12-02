@@ -131,7 +131,7 @@
       "link": "https://docs.google.com/spreadsheets/d/1QJva3JBSy3LWG8nkb-MZFUGGzqLO0xxa/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     },
     {
-      "id": 1,
+      "id": 4,
       "img": "image",
       "category": "Others",
       "title": "Company Material Purchase Quotation Sheet",
@@ -141,7 +141,7 @@
       "link": "https://docs.google.com/spreadsheets/d/1x6WlfMXIMEoSt4FRx1HFtcgeqdXgd2pF/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     },
         {
-      "id": 1,
+      "id": 5,
       "img": "image",
       "category": "Others",
       "title": "Will add later",
@@ -151,7 +151,7 @@
       "link": "#"
     },
     {
-      "id": 1,
+      "id": 6,
       "img": "image",
       "category": "Others",
       "title": "Will add later",
@@ -190,6 +190,36 @@
       "author": "Travis Wilkerson",
       "description": "These files will provide you with an understanding of day trading and offer guidance on becoming a successful day trader.",
       "format": ".epub",
+      "link": "https://drive.google.com/file/d/11UTfKY-6uODCReO5ApX4iX4OpBG2yT0h/view?usp=drive_link"
+    },
+     {
+      "id": 4,
+      "img": "image",
+      "category": "Others",
+      "title": "VBA for beginners",
+      "author": "GoalKicker",
+      "description": "Visual Basic for Applications (VBA) is a programming language provided by Microsoft to automate tasks and enhance functionality in its Office applications such as Excel, Word, and Access.",
+      "format": ".pdf",
+      "link": "https://drive.google.com/file/d/1zbYoiKD5qvDq2A18H0AfcsFvyA6C_w-w/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "img": "image",
+      "category": "Others",
+      "title": "VBA Bible",
+      "author": "Andrei Besedin",
+      "description": "The VBA Bible serves as a definitive resource for mastering Visual Basic for Applications (VBA), the programming language that powers automation and customization in Microsoft Office applications. ",
+      "format": ".pdf",
+      "link": "https://drive.google.com/file/d/1OM3cjdpWOOtCxjQqCdWvqjPxOTERZZtn/view?usp=sharing"
+    },
+    {
+      "id": 6,
+      "img": "image",
+      "category": "Others",
+      "title": "Securing MS",
+      "author": "Joe Stocker",
+      "description": "Securing Microsoft (MS) environments is essential for safeguarding sensitive data, ensuring system integrity, and maintaining compliance with regulations. ",
+      "format": ".pdf",
       "link": "https://drive.google.com/file/d/11UTfKY-6uODCReO5ApX4iX4OpBG2yT0h/view?usp=drive_link"
     }
   ]
