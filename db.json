@@ -97,7 +97,37 @@
       "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
       "format": "PDF",
       "link": "https://drive.google.com/file/d/14hYtC7UPNL6hoYGdHVSY0BlJvIox_fjk/view?usp=drive_link"
-    }
+    },
+        {
+      "id": 4,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Trading for a Living",
+      "author": "Elder Alexander",
+      "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/1aAy5s1bg3UYDzIm8swzba03tAbolHSnY/view?usp=sharing"
+    },
+        {
+      "id": 5,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Technical Analysis and Fundamentals",
+      "author": "Kathy Lien",
+      "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/1xS3O9s1P9l36GJ0wcW3_694_gelEB_A0/view?usp=sharing"
+    },
+        {
+      "id": 6,
+      "img": "/src/images/forexIcon.png",
+      "category": "Forex",
+      "title": "Currency Trading",
+      "author": "Brian Dolan",
+      "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
+      "format": "PDF",
+      "link": "https://drive.google.com/file/d/16nscTnb4Cx53yvY_V2jVrYmouOfP-VMK/view?usp=sharing"
+    },
   ],
   "tools": [
     {
