@@ -129,7 +129,17 @@
       "description": "A Commodity Daily Report is a concise yet comprehensive summary that provides updates on the performance and trends of various commodities in the financial markets.",
       "format": ".xls",
       "link": "https://docs.google.com/spreadsheets/d/1QJva3JBSy3LWG8nkb-MZFUGGzqLO0xxa/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
-    }
+    },
+    {
+      "id": 1,
+      "img": "image",
+      "category": "Others",
+      "title": "Company Material Purchase Quotation Sheet",
+      "author": "John Paul E.",
+      "description": "The description will appear here",
+      "format": ".xls",
+      "link": "https://docs.google.com/spreadsheets/d/1x6WlfMXIMEoSt4FRx1HFtcgeqdXgd2pF/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
+    },
   ],
   "others": [
     {
