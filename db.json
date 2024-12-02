@@ -140,6 +140,26 @@
       "format": ".xls",
       "link": "https://docs.google.com/spreadsheets/d/1x6WlfMXIMEoSt4FRx1HFtcgeqdXgd2pF/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     },
+        {
+      "id": 1,
+      "img": "image",
+      "category": "Others",
+      "title": "Will add later",
+      "author": "John Paul E.",
+      "description": "will add description later",
+      "format": ".xls",
+      "link": "#"
+    },
+    {
+      "id": 1,
+      "img": "image",
+      "category": "Others",
+      "title": "Will add later",
+      "author": "John Paul E.",
+      "description": "will add description later",
+      "format": ".xls",
+      "link": "#"
+    }
   ],
   "others": [
     {
