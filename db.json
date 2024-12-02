@@ -98,7 +98,7 @@
       "format": "PDF",
       "link": "https://drive.google.com/file/d/14hYtC7UPNL6hoYGdHVSY0BlJvIox_fjk/view?usp=drive_link"
     },
-        {
+    {
       "id": 4,
       "img": "/src/images/forexIcon.png",
       "category": "Forex",
@@ -118,7 +118,7 @@
       "format": "PDF",
       "link": "https://drive.google.com/file/d/1xS3O9s1P9l36GJ0wcW3_694_gelEB_A0/view?usp=sharing"
     },
-        {
+    {
       "id": 6,
       "img": "/src/images/forexIcon.png",
       "category": "Forex",
@@ -127,7 +127,7 @@
       "description": "Comprehensive guide designed to take beginners through the essential steps of becoming a confident and knowledgeable trader.",
       "format": "PDF",
       "link": "https://drive.google.com/file/d/16nscTnb4Cx53yvY_V2jVrYmouOfP-VMK/view?usp=sharing"
-    },
+    }
   ],
   "tools": [
     {
@@ -174,21 +174,21 @@
       "id": 5,
       "img": "image",
       "category": "Others",
-      "title": "Will add later",
+      "title": "Sales Call Planner",
       "author": "John Paul E.",
-      "description": "will add description later",
-      "format": ".xls",
-      "link": "#"
+      "description": "Sales call planner document",
+      "format": ".docx",
+      "link": "https://docs.google.com/document/d/1KYVOntHApRr2XuaTsgwxdzCtv0A7FFhx/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     },
     {
       "id": 6,
       "img": "image",
       "category": "Others",
-      "title": "Will add later",
+      "title": "Sales Marketing Plan",
       "author": "John Paul E.",
-      "description": "will add description later",
-      "format": ".xls",
-      "link": "#"
+      "description": "Sales marketing plan document",
+      "format": ".docx",
+      "link": "https://docs.google.com/document/d/1itB730a9Vs3JwZAO9lLOuRfW4E2AUBeh/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     }
   ],
   "others": [
