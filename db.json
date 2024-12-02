@@ -189,7 +189,18 @@
       "description": "Sales marketing plan document",
       "format": ".docx",
       "link": "https://docs.google.com/document/d/1itB730a9Vs3JwZAO9lLOuRfW4E2AUBeh/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
+    },
+    {
+      "id": 7,
+      "img": "image",
+      "category": "Others",
+      "title": "Food Inbound and Outbound Registration Form",
+      "author": "John Paul E.",
+      "description": "A Food Inbound and Outbound Registration Form",
+      "format": ".xls",
+      "link": "https://docs.google.com/spreadsheets/d/1yNJ48Zk-NuI3uAzgqCuh5bVMefp9uAbg/edit?usp=sharing&ouid=104721075359984486326&rtpof=true&sd=true"
     }
+
   ],
   "others": [
     {
@@ -251,6 +262,16 @@
       "description": "Securing Microsoft (MS) environments is essential for safeguarding sensitive data, ensuring system integrity, and maintaining compliance with regulations. ",
       "format": ".pdf",
       "link": "https://drive.google.com/file/d/11UTfKY-6uODCReO5ApX4iX4OpBG2yT0h/view?usp=drive_link"
+    },
+    {
+      "id": 7,
+      "img": "image",
+      "category": "Others",
+      "title": "Ms Excel Pivot Tables",
+      "author": "John Paul E.",
+      "description": "Advanced pivot table in excel",
+      "format": ".PDF",
+      "link": "https://drive.google.com/file/d/155r1nEen6hr-JjFaXr2WIiT_D8H4PJRP/view?usp=sharing"
     }
   ]
 }
